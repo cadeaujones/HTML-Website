@@ -12,10 +12,10 @@ This project is a fully structured, multi-page website built strictly using **pu
 - **Data Display**: Structured tables and lists for service descriptions.
 
 ## Website Screenshots
-(./index.png)
+(./screenshots/index.png)
 *Figure 1: Homepage layout showing navigation and semantic structure.*
 
-(./form.png)
+(./screenshots/form.png)
 *Figure 2: Comprehensive HTML form with fieldsets and various inputs.*
 
 ## File Structure
