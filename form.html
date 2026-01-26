@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Application Form | Website</title>
+</head>
+<body>
+    <h1>Registration Form</h1>
+    <form action="#" method="post">
+        <fieldset>
+            <legend>Personal Details</legend>
+            <label for="name">Full Name:</label>
+            <input type="text" id="name" name="name" required><br><br>
+            
+            <label for="bday">Birthday:</label>
+            <input type="date" id="bday" name="bday"><br><br>
+
+            <label>Gender:</label>
+            <input type="radio" id="m" name="gen" value="m"><label for="m">Male</label>
+            <input type="radio" id="f" name="gen" value="f"><label for="f">Female</label>
+        </fieldset>
+        <br>
+        <label for="skill">Skill Level:</label>
+        <input type="range" id="skill" name="skill" min="0" max="100">
+        <br><br>
+        <button type="submit">Submit Application</button>
+    </form>
+</body>
+</html>
