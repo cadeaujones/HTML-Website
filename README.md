@@ -15,8 +15,21 @@ This project is a fully structured, multi-page website built strictly using **pu
 ![Home Page Screenshot](index.png)
 *Figure 1: Homepage layout showing navigation and semantic structure.*
 
-(form.png)
-*Figure 2: Comprehensive HTML form with fieldsets and various inputs.*
+![Home Page Screenshot](about.png)
+*Figure 2: About layout here.*
+
+![Home Page Screenshot](services.png)
+*Figure 3:|Services provided layout here.*
+
+![Home Page Screenshot](contact.png)
+*Figure 4: Contact available layout here.*
+
+![Home Page Screenshot](form.png)
+*Figure 5: Registration form layout here.*
+
+![Home Page Screenshot](media.png)
+*Figure 6: Media page layout here.*
+
 
 ## File Structure
 - `index.html`: Website introduction and navigation.
