@@ -1,5 +1,5 @@
-# html-website-only
-# HTML-Only Personal Website Project
+# HTML-Website
+# HTML-Website documentation
 
 ## Project Overview
 This project is a fully structured, multi-page website built strictly using **pure HTML**. The objective was to implement core HTML elements and semantic layout tags without the use of CSS or JavaScript.
@@ -12,7 +12,7 @@ This project is a fully structured, multi-page website built strictly using **pu
 - **Data Display**: Structured tables and lists for service descriptions.
 
 ## Website Screenshots
-(index.png)
+![Home Page](./screenshots/home.png)
 *Figure 1: Homepage layout showing navigation and semantic structure.*
 
 (form.png)
