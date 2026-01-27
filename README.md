@@ -12,7 +12,7 @@ This project is a fully structured, multi-page website built strictly using **pu
 - **Data Display**: Structured tables and lists for service descriptions.
 
 ## Website Screenshots
-![Home Page](./screenshots/home.png)
+![Home Page Screenshot](index.png)
 *Figure 1: Homepage layout showing navigation and semantic structure.*
 
 (form.png)
